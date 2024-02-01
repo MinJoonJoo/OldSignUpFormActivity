@@ -12,10 +12,10 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="32sp"
         android:gravity="center"
         android:paddingBottom="32dp"
-        android:text="Complete Sign-up"/>
+        android:text="Complete Sign-up"
+        android:textSize="32sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
